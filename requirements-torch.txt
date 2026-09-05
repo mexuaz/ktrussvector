@@ -1,0 +1,5 @@
+# PyTorch implementations (ktruss_cantor_arr_torch.py, ktruss_torch.py).
+# Pinned to the versions the dissertation's measurements were taken under.
+# CUDA 13.2 for the H100 runs; --device cpu needs no CUDA at all.
+numpy==2.4.2
+torch==2.13.0
